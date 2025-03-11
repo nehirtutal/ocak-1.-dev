@@ -1,0 +1,7 @@
+# Kullanıcıdan ad, soyad ve yaş bilgilerini alıyoruz
+ad = input("Adınızı giriniz: ")
+soyad = input("Soyadınızı giriniz: ")
+yas = input("Yaşınızı giriniz: ")
+
+# Kullanıcının bilgilerini ekrana yazdırıyoruz
+print(f"Merhaba {ad} {soyad}, {yas} yaşındasınız. Hoş geldiniz!")
